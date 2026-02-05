@@ -1,8 +1,10 @@
 /**
- * Instagram Activity Extractor
- * Author: Matt Max
- * Usage: Run in browser console on Instagram activity page
+ * Instagram Activity Cleaner
+ * Author: meetpalan-dev
+ * Runs in browser console
+ * For educational & personal use only
  */
+
 
 (async () => {
     const sleep = ms => new Promise(r => setTimeout(r, ms));
